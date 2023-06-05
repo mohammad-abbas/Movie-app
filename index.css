@@ -1,0 +1,12 @@
+#movies img, #movie img {
+    width: 100%;
+} 
+
+#movies .col-md-3 img {
+    height: 400px;
+}
+
+body {
+    background-color: rgb(158, 28, 28);
+    color: white;
+}
